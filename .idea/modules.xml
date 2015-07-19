@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exceptioness.Portable/Exceptioness.Portable.iml" filepath="$PROJECT_DIR$/Exceptioness.Portable/Exceptioness.Portable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptionless.Extras/Exceptionless.Extras.iml" filepath="$PROJECT_DIR$/Exceptionless.Extras/Exceptionless.Extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptionless.Java.iml" filepath="$PROJECT_DIR$/Exceptionless.Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Platforms/Exceptionless.Windows/Exceptionless.Windows.iml" filepath="$PROJECT_DIR$/Platforms/Exceptionless.Windows/Exceptionless.Windows.iml" />
+    </modules>
+  </component>
+</project>
